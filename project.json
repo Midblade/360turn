@@ -1,0 +1,10 @@
+{
+    "name": "360turn",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "360turn.xml",
+    "author": "Midblade",
+    "minimum_firmware_version": 42
+}
